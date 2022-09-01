@@ -70,7 +70,7 @@ class _NumbersScreenState extends State<NumbersScreen> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('Coin Ticker'),
+          title: const Text('Mega Sena'),
         ),
         body: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
